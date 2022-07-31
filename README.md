@@ -1,4 +1,5 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=haibin_hello-react&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=haibin_hello-react)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=haibin_hello-react&metric=coverage)](https://sonarcloud.io/summary/new_code?id=haibin_hello-react)
 
 # Getting Started with Create React App
 
