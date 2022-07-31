@@ -6,6 +6,7 @@ function App() {
   console.log("hello world 1")
   console.log("hello world 2")
   console.log("hello world 3")
+  console.log("hello world 4")
   return (
     <div className="App">
       <header className="App-header">
